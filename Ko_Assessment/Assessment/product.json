@@ -1,0 +1,15 @@
+{
+  "products": {
+    "productNumber": "Nandha",
+    "productDescription": "NK",
+    "activeProduct": true,
+    "weightPerUnitOfMeasure": "12.4",
+    "listPrice": "34",
+    "selectedMeasurement": "IN",
+    "selectedSupply": "Food supplies",
+    "countryOfOrigin": "Nagercoil",
+    "latestRevDate": "2000-05-05",
+    "longDivision": "It's My Birthday",
+    "productClassSelectedOptionValue": "Bicycle(100)"
+  }
+}
